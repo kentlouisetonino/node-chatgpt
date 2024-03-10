@@ -29,7 +29,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 require('dotenv').config();
 const express_1 = __importStar(require("express"));
 const morgan_1 = __importDefault(require("morgan"));
-// Get the express application instance.
+// Express application instance.
 const app = (0, express_1.default)();
 // App middlewares.
 app.use((0, morgan_1.default)('tiny'));
