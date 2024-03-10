@@ -1,7 +1,7 @@
 ### DESCRIPTION
 #
 
-https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/58aae521-eb39-482b-875c-97decc2c178b
+https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/89e11a26-b3f2-435a-90be-32ef2df1b824
 
 <br />
 
