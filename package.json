@@ -1,0 +1,8 @@
+{
+  "name": "node-chatgpt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kentlouisetonino/node-chatgpt.git",
+  "author": "Kent Louise Tonino <tonino.kentlouise@gmail.com>",
+  "license": "MIT"
+}
