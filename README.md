@@ -15,6 +15,13 @@
 PORT=11000
 ```
 
+> - Execute the scripts.
+```bash
+# Highly suggest to use Node.js version >= 18.
+yarn install
+yarn start
+```
+
 > - Use postman to send post request.
 
 ```plaintext
