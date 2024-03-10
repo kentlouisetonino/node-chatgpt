@@ -1,7 +1,7 @@
-import OpenAIController from '../controllers/OpenAIController';
 import express from 'express';
+import OpenAIController from '../controllers/OpenAIController';
 
-// Get the express router instance.
+// Express router instance.
 const router = express.Router();
 
 router.post('/chat', OpenAIController.chat);

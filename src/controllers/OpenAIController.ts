@@ -30,6 +30,10 @@ export default class OpenAIController {
       return res.send({
         error: 'Message is required.',
       });
+    } else if (!temperature) {
+      return res.send({
+        error: 'Temperature is required.',
+      });
     } else {
       try {
         const openAIResponse = await fetch(

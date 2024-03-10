@@ -1,7 +1,7 @@
-import RootController from '../controllers/RootController';
 import express from 'express';
+import RootController from '../controllers/RootController';
 
-// Get the express router instance.
+// Express router instance.
 const router = express.Router();
 
 router.get('/', RootController.home);
