@@ -25,6 +25,9 @@ PORT=11000
 # Highly suggest to use Node.js version >= 18.
 yarn install
 yarn start
+
+# To run the test.
+yarn test:all
 ```
 
 > - Use postman to send post request.
