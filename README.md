@@ -1,11 +1,11 @@
 ### DESCRIPTION
 #
 
-https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/89e11a26-b3f2-435a-90be-32ef2df1b824
+![Screenshot from 2024-03-11 10-41-43](https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/8f6be1b8-1fd6-4d5d-8fae-8523d50b9286)
 
 <br />
 
-![Screenshot from 2024-03-11 10-39-21](https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/01c2aa93-d270-4ad3-95c3-45db6f595db9)
+https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/89e11a26-b3f2-435a-90be-32ef2df1b824
 
 <br />
 
