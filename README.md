@@ -5,6 +5,10 @@ https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/89e11a26-b3f2-4
 
 <br />
 
+![Screenshot from 2024-03-11 10-39-21](https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/01c2aa93-d270-4ad3-95c3-45db6f595db9)
+
+<br />
+
 > - A backend service that integrates Node.js with ChatGPT API.
 
 <br />
