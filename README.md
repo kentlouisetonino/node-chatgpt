@@ -1,5 +1,14 @@
 ### DESCRIPTION
 #
+
+![Screenshot from 2024-03-11 10-41-43](https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/8f6be1b8-1fd6-4d5d-8fae-8523d50b9286)
+
+<br />
+
+https://github.com/kentlouisetonino/node-chatgpt/assets/69438999/89e11a26-b3f2-435a-90be-32ef2df1b824
+
+<br />
+
 > - A backend service that integrates Node.js with ChatGPT API.
 
 <br />
@@ -20,6 +29,9 @@ PORT=11000
 # Highly suggest to use Node.js version >= 18.
 yarn install
 yarn start
+
+# To run the test.
+yarn test:all
 ```
 
 > - Use postman to send post request.
